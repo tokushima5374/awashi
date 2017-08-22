@@ -1,8 +1,8 @@
 label,sublabel,description,styles,bgcolor
-可燃ゴミ,,,img/moyasanai02.svg,#ea3b13
+可燃ゴミ,,,img/kanengomi02.svg,#ea3b13
 びん　破砕ゴミ,,,img/bin02.svg,#2dc7aa
-カン類,,,img/shigen02.svg,#77ae1f
-ペットボトル,,,img/moyasu02.svg,#733b96
-粗大ゴミ,,,img/bin02.svg,#2dc7aa
+カン類,,,img/kan02.svg,#77ae1f
+ペットボトル,,,img/pettobotoru02.svg,#733b96
+粗大ゴミ,,,img/sodaigomi02.svg,#2dc7aa
 資源,,,img/shigen02.svg,#77ae1f
-有害ゴミ,,,img/shigen02.svg,#77ae1f
+有害ゴミ,,,img/yuugai02.svg,#77ae1f
